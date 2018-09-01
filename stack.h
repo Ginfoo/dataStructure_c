@@ -19,7 +19,7 @@ typedef struct {
  * @param stack
  * @return
  */
-int InitStack(SqStack * stack);
+void InitStack(SqStack * stack);
 
 /**
  * 判断栈是否为空
